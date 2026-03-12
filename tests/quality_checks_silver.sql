@@ -216,7 +216,7 @@ from silver.erp_loc_a101
 group by cid
 having count(*) < 1 or cid is null
 
--- Quality Check 2: Check for unique values in 'gen'
+-- Quality Check 2: Check for unique values in 'cntry'
 select distinct cntry from silver.erp_loc_a101
 
 -- ===========================================
@@ -235,5 +235,4 @@ having count(*) < 1 or id is null
 
 -- Quality Check 2: Check for unique values in 'cat' and 'maintenance'
 select distinct cat from silver.erp_px_cat_g1v2
-
 select distinct maintenance from silver.erp_px_cat_g1v2
