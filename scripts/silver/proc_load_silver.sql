@@ -201,7 +201,8 @@ BEGIN
 		replace(cid, '-', '') as cid,
 		case when trim(cntry) = 'DE' then 'Germany'
 			when trim(cntry) in ('US', 'USA', 'United States') then 'United States'
-			when trim(cntry) in ('NULL', '') then 'n/a'
+			when trim(cntry) = '' then 'n/a'
+			when trim(cntry) is null then 'n/a'
 			else trim(cntry)
 		end as cntry
 		from bronze.erp_loc_a101
@@ -246,6 +247,7 @@ BEGIN
 		PRINT '================================================================';
 	END CATCH
 END
+
 
 
 
