@@ -41,8 +41,8 @@ BEGIN
 			cst_key,
 			cst_firstname,
 			cst_lastname,
-			cst_marital_status,
 			cst_gndr,
+			cst_marital_status,
 			cst_create_date) 
 		-- In our data warehouse, we aim to store clear and meaningful values instead of using abreviated terms
 		-- and 'n/a' instead of null
@@ -248,6 +248,7 @@ BEGIN
 		PRINT '================================================================';
 	END CATCH
 END
+
 
 
 
