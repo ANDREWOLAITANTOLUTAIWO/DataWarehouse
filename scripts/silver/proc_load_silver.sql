@@ -176,8 +176,9 @@ BEGIN
 		gen
 		)
 		select 
-		upper(trim(substring(cid, 4, len(cid)))) as cid,
-		bdate,
+		case when cid like 'NAS%' then upper(trim(substring(cid, 4, len(cid)))) 
+			else upper(trim(cid))
+		end as cid,
 		case when upper(trim(gen))  in ('F', '', 'Female') then 'Female' 
 			when gen in ('M', 'Male') then 'Male'
 			else 'n/a'
@@ -247,6 +248,7 @@ BEGIN
 		PRINT '================================================================';
 	END CATCH
 END
+
 
 
 
