@@ -1,4 +1,4 @@
-### Data Dictionary for Gold Layer
+# Data Dictionary for Gold Layer
 ---
 
 ## Overview
@@ -8,7 +8,7 @@ The Gold Layer is the business-level data representation, structured to support 
 ---
 
 ## 1. gold.dim_customers
-# *  Purpose: Stores customers details enriched with demographic and geographic data 
+###  Purpose: Stores customers details enriched with demographic and geographic data 
 
 | Column Name | Data Type| Description |
 |---|---|---|
@@ -25,8 +25,8 @@ The Gold Layer is the business-level data representation, structured to support 
 
 ---
 
-## 1. gold.dim_products
-# *  Purpose: Provides information about the products and the attributes
+## 2. gold.dim_products
+### *  Purpose: Provides information about the products and the attributes
 | Column Name | Data Type| Description |
 |---|---|---|
 | product_key | INT | Surrogate key uniquely identifying each product record in the dimension tables |
@@ -43,8 +43,8 @@ The Gold Layer is the business-level data representation, structured to support 
 
 ---
 
-## 1. gold.fact_sales
-# *  Purpose: Stores transactional sales for analytical purposes
+## 3. gold.fact_sales
+### *  Purpose: Stores transactional sales for analytical purposes
 | Column Name | Data Type| Description |
 |---|---|---|
 | order_number | NVARCHAR | A unique alphanumeric identifier for each sales order (e.g. 'SOS4496') |
