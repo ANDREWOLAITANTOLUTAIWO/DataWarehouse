@@ -47,4 +47,5 @@ For more details refer to [requirements.md](requirements.md)
 ## Data Architecture
 The data architrecture for this project follows Medalion Architecture Bronze, Silver and Gold layers.
 
-![](../Warehouse Architecture.png)
+<img width="821" height="534" alt="Warehouse Architecture" src="https://github.com/user-attachments/assets/dc7270ae-ff84-40d7-b150-9b44a968a8bd" />
+
