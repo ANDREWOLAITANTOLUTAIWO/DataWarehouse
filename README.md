@@ -49,3 +49,6 @@ The data architrecture for this project follows Medalion Architecture Bronze, Si
 
 <img width="821" height="534" alt="Warehouse Architecture" src="https://github.com/user-attachments/assets/dc7270ae-ff84-40d7-b150-9b44a968a8bd" />
 
+1. Bronze layer: Stores raw data as-is from the source system
+2. Silver layer: This layer includes data cleansing, standardization and normalization processes to prepare data for analysis.
+3. Gold layer: Houses business-ready data modeled into the star schema required for reporting and analysis
