@@ -62,5 +62,5 @@ This project is licenced under the [MIT License](https://github.com/ANDREWOLAITA
 ---
 
 ## About Me
-Hi, I am a geospatial data scientist. I help people and businesses make profit from data. 
-[Linkedin](https://www.linkedin.com/in/andrew-tolu-taiwo-7515b0191/)
+Hi, my name is **Tolu Taiwo**. I am a geospatial data scientist. I help people and businesses make profit from data. You free to connect with me
+[Linkedin](https://www.linkedin.com/in/andrew-tolu-taiwo-7515b0191/) <tolutaiwo75@gmail.com>
