@@ -59,6 +59,8 @@ The data architrecture for this project follows Medalion Architecture Bronze, Si
 ## License
 This project is licenced under the [MIT License](https://github.com/ANDREWOLAITANTOLUTAIWO/DataWarehouse/blob/main/LICENSE). You are free to use, modify and share this project with proper attribution.
 
-## About Me
+---
 
+## About Me
+Hi, I am a geospatial data scientist. I help people and businesses make profit from data. 
 [Linkedin](https://www.linkedin.com/in/andrew-tolu-taiwo-7515b0191/)
