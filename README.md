@@ -61,3 +61,4 @@ This project is licenced under the [MIT License](https://github.com/ANDREWOLAITA
 
 ## About Me
 
+[Linkedin](https://www.linkedin.com/in/andrew-tolu-taiwo-7515b0191/)
