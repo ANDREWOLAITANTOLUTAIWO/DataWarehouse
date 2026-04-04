@@ -53,3 +53,11 @@ The data architrecture for this project follows Medalion Architecture Bronze, Si
 1. Bronze layer: Stores raw data as-is from the source system
 2. Silver layer: This layer includes data cleansing, standardization and normalization processes to prepare data for analysis.
 3. Gold layer: Houses business-ready data modeled into the star schema required for reporting and analysis
+
+---
+
+## License
+This project is licenced under the MIT License. You are free to use, modify and share this project with proper attribution.
+
+## About Me
+
