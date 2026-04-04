@@ -40,7 +40,7 @@ Develop SQL-based analysis to deliver basic insights into:
 * Sales trends
 
 These insights empower stakeholders with key business performance metrics, enabling strategic decision making.
-For more details refer to [requirements.md](requirements.md) 
+For more details refer to [requirements.md](https://github.com/ANDREWOLAITANTOLUTAIWO/DataWarehouse/blob/main/requirements.txt) 
 
 ---
 
