@@ -57,7 +57,7 @@ The data architrecture for this project follows Medalion Architecture Bronze, Si
 ---
 
 ## License
-This project is licenced under the [MIT License] (https://github.com/ANDREWOLAITANTOLUTAIWO/DataWarehouse/blob/main/LICENSE). You are free to use, modify and share this project with proper attribution.
+This project is licenced under the [MIT License](https://github.com/ANDREWOLAITANTOLUTAIWO/DataWarehouse/blob/main/LICENSE). You are free to use, modify and share this project with proper attribution.
 
 ## About Me
 
